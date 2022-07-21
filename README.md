@@ -1,9 +1,9 @@
 # MarkdownTraining
-hello smsms
+![DOES Building](Images/Building.png)
 
 i am **Benoy Michael**
 
-**Birth**
+
 **Things I love**
 
 1.Running
@@ -19,7 +19,7 @@ Best search engine is [google](https://www.google.com/)
 [MSN](https://www.msn.com/)
 
 
-The [section about my Birth](Things) is usefull!
+![The section about my Birth]() is usefull!
 
 
 **My table**
